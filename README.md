@@ -16,7 +16,7 @@ Passionate about building modern web applications, crafting intuitive user exper
 
 ""Email" (https://img.shields.io/badge/Email-piyushpal9555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:piyushpal9555@gmail.com)
 
-""Phone" (https://img.shields.io/badge/Phone-%2B91%20YOUR_NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (tel:+91YOUR_NUMBER)
+""Phone" (https://img.shields.io/badge/Phone-%2B91%20YOUR_NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (tel:+919555016252)
 
 ---
 
