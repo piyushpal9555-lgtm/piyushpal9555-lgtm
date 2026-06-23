@@ -1,16 +1,72 @@
-## Hi there 👋
+👋 Hi, I'm Piyush Pal
 
-<!--
-**piyushpal9555-lgtm/piyushpal9555-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer | B.Tech Student
 
-Here are some ideas to get you started:
+Passionate about building modern web applications, crafting intuitive user experiences, and solving real-world problems through technology. I enjoy transforming ideas into scalable digital products while continuously learning new technologies and development practices.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Currently exploring React, Node.js, MongoDB, and Cybersecurity to strengthen my full-stack development skills.
+
+🏆 I actively participate in hackathons, contribute to open-source projects, and collaborate with fellow developers to learn, build, and grow.
+
+---
+
+🌐 Connect With Me
+
+""LinkedIn" (https://img.shields.io/badge/LinkedIn-Piyush%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/piyush-pal-9a86403b7)
+
+""Email" (https://img.shields.io/badge/Email-piyushpal9555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:piyushpal9555@gmail.com)
+
+""Phone" (https://img.shields.io/badge/Phone-%2B91%20YOUR_NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (tel:+91YOUR_NUMBER)
+
+---
+
+💻 Tech Stack
+
+🚀 Programming Languages
+
+- C++
+- Java
+- JavaScript
+
+🎨 Frontend Development
+
+- HTML5
+- CSS3
+- React
+- Bootstrap
+- Tailwind CSS
+
+⚙️ Backend & Database
+
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+
+🛠️ Tools & Platforms
+
+- Git
+- GitHub
+- Vercel
+- NPM
+- Nodemon
+- Canva
+
+📊 Data Science & Analytics
+
+- NumPy
+- Pandas
+- Matplotlib
+
+---
+
+📈 Currently Learning
+
+🌱 Advanced React Development
+🌱 Backend Architecture & REST APIs
+🌱 Cybersecurity Fundamentals
+🌱 Data Structures & Algorithms
+
+---
+
+✨ Code. Create. Learn. Repeat.
