@@ -12,11 +12,11 @@ Passionate about building modern web applications, crafting intuitive user exper
 
 🌐 Connect With Me
 
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-Piyush%20Pal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/piyush-pal-9a86403b7)
+""LinkedIn" (https://www.linkedin.com/in/piyush-pal-9a86403b7)
 
-""Email" (https://img.shields.io/badge/Email-piyushpal9555%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:piyushpal9555@gmail.com)
+""Email" (mailto:piyushpal9555@gmail.com)
 
-""Phone" (https://img.shields.io/badge/Phone-%2B91%20YOUR_NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)" (tel:+919555016252)
+""Phone" (tel:+919555016252)
 
 ---
 
